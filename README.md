@@ -5,25 +5,25 @@ This module introduces the learner to basic algorithms and their implementation.
 The Python code for the module can be found at the github repository Intro to Algorithms.
 
 #### The module covers a range of topics:
-#### 1  Introduction to Algorithms
-#####  Types and operations
-#####  Flow charts and Pseudocode
-#####  Analysis of an Algorithm
-2 Networks
-  Quick Union
-  Quick Find
-3 Sorting Algorithms
-  Bubble Sort
-  Selection Sort
-  Merge Sort
-  Quick Sort
-4 Searching Algorithms
-5 Encryption
-  Caesar Cipher
-  Vigenere Cipher
-6 Random number generation 
-  Middle Square Method
-  Linear Congruential  Method
+1.  Introduction to Algorithms
+    - Types and operations
+    -  Flow charts and Pseudocode
+    -  Analysis of an Algorithm
+2. Networks
+   -   Quick Union
+   -   Quick Find
+3. Sorting Algorithms
+   - Bubble Sort
+   - Selection Sort
+   - Merge Sort
+   - Quick Sort
+4. Searching Algorithms
+5. Encryption
+   - Caesar Cipher
+   - Vigenere Cipher
+6. Random number generation 
+   -  Middle Square Method
+   -  Linear Congruential  Method
 ## References
 ### Essential Reading:  (author, title, publisher, date)
 Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011. website
