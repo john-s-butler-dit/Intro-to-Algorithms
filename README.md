@@ -1,8 +1,9 @@
-# Algorithms with Python Code
- 
+# Introduction to Algorithms with Python Code
+## [John S Butler (TU Dublin)](https://johnsbutler.netlify.com/)
+
 ## Introduction
-This module introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of computer science and data analytics.  The module does not assume a prior knowledge of computer science.
-The Python code for the module can be found at the github repository Intro to Algorithms.
+This module is a first year Mathematics course which introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of computer science and data analytics.  The module does not assume a prior knowledge of computer science.
+This github repository contains the Python Code for the module.
 
 #### The module covers a range of topics:
 1.  Introduction to Algorithms
