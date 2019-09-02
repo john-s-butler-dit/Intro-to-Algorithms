@@ -25,6 +25,8 @@ This github repository contains the Python Code for the module.
 6. Random number generation 
    -  Middle Square Method
    -  Linear Congruential  Method
+
+
 ## References
 ### Essential Reading:  (author, title, publisher, date)
 Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011. website
