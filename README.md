@@ -4,11 +4,11 @@
 This module introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of computer science and data analytics.  The module does not assume a prior knowledge of computer science.
 The Python code for the module can be found at the github repository Intro to Algorithms.
 
-The module covers a range of topics:
-1  Introduction to Algorithms
-  Types and operations
-  Flow charts and Pseudocode
-  Analysis of an Algorithm
+#### The module covers a range of topics:
+#### 1  Introduction to Algorithms
+#####  Types and operations
+#####  Flow charts and Pseudocode
+#####  Analysis of an Algorithm
 2 Networks
   Quick Union
   Quick Find
