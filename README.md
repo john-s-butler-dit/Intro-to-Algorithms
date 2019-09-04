@@ -31,11 +31,13 @@ This module is a first year Mathematics course which introduces the learner to b
 
 ## References
 ### Essential Reading:  (author, title, publisher, date)
-Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011. website
+Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011.
+
 Navathe E., Fundamentals of Database Systems, Addison Wesley, 3rd Edition, 2002
 
 ### Supplemental Reading:  (author, title, publisher, date)
 Deitel & Deitel, C – How to Program, Prentice Hall, 3rd Edition, 2001
+
 Knuth, D. – The Art of Computer Programming, 1994
 
 ### Popular Science: (author, title, publisher, date)
