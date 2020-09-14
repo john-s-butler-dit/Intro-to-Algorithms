@@ -11,7 +11,7 @@ This module is a first year Mathematics course which introduces the learner to b
 1.  Introduction to Algorithms
     - Types and operations
     -  Flow charts and Pseudocode
-    -  Analysis of an Algorithm
+    -  [Analysis of an Algorithm](https://github.com/john-s-butler-dit/Intro-to-Algorithms/blob/master/Chapter%201-%20Introduction_to_Algorithms/Simple%20Algorithms.ipynb)
 2. Networks
    -   Quick Union
    -   Quick Find
