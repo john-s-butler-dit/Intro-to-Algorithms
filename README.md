@@ -27,6 +27,8 @@ This module is a first year Mathematics course which introduces the learner to b
 6. Random number generation 
    -  Middle Square Method
    -  Linear Congruential  Method
+
+
 Video Lecture Playlist:
 https://youtube.com/playlist?list=PLtys-ajYdIGXBTWCoABWXHd56LJb95ABo
 
