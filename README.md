@@ -10,8 +10,8 @@ This module is a first year Mathematics course which introduces the learner to b
 #### The module covers a range of topics:
 1.  Introduction to Algorithms
     - Types and operations
-    -  Flow charts and Pseudocode
-    -  [Analysis of an Algorithm](https://github.com/john-s-butler-dit/Intro-to-Algorithms/blob/master/Chapter%201-%20Introduction_to_Algorithms/Simple%20Algorithms.ipynb)
+    - Flow charts and Pseudocode
+    - [Analysis of an Algorithm](https://github.com/john-s-butler-dit/Intro-to-Algorithms/blob/master/Chapter%201-%20Introduction_to_Algorithms/Simple%20Algorithms.ipynb)
 2. Networks
    -   Quick Union
    -   Quick Find
@@ -28,6 +28,7 @@ This module is a first year Mathematics course which introduces the learner to b
    -  Middle Square Method
    -  Linear Congruential  Method
 
+![Algorithn_ConceptMap](https://user-images.githubusercontent.com/30832003/202928086-a4ef7c01-b4d3-4912-9ac7-7d9885564e1a.png)
 
 ## References
 ### Essential Reading:  (author, title, publisher, date)
@@ -42,6 +43,7 @@ Knuth, D. – The Art of Computer Programming, 1994
 
 ### Popular Science: (author, title, publisher, date)
 Fry, H. - Hello World: How to be Human in the Age of the Machine, Doubleday, 2018
+
 Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
 
 Playlist:
