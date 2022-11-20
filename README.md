@@ -42,3 +42,8 @@ Knuth, D. – The Art of Computer Programming, 1994
 
 ### Popular Science: (author, title, publisher, date)
 Fry, H. - Hello World: How to be Human in the Age of the Machine, Doubleday, 2018
+Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
+
+Playlist:
+
+Butler, J. S. Algorithms Playlist https://open.spotify.com/playlist/1Xpt5HUafj1vp6zIWwwM7V?si=f2c1e61c190044a9
