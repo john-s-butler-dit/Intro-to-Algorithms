@@ -46,15 +46,21 @@ Deitel & Deitel, C – How to Program, Prentice Hall, 3rd Edition, 2001
 Knuth, D. – The Art of Computer Programming, 1994
 
 ### Popular Science: (author, title, publisher, date)
+
 Fry, H. - Hello World: How to be Human in the Age of the Machine, Doubleday, 2018
+
+Hart, S. - Once Upon a Prime, Flatiron Books, 2023
+
+Johnson, K. - Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson, Simon & Schuster, 2019
+
+Kleiman, K. - Proving Ground The Untold Story of the Six Women Who Programmed the World's First Modern Computer, Grand Central Publishing, 2022
+
+Lindsay, G. - Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain, MIT Press, 2021
 
 Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
 
-Hart, S. - Once Upon a Prime, Flatiron Books 2023
-
-Lindsay, G. Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain, MIT Press, 2021
 
 
-Playlist:
+### Playlist:
 
 Butler, J. S. Algorithms Playlist https://open.spotify.com/playlist/1Xpt5HUafj1vp6zIWwwM7V?si=f2c1e61c190044a9
