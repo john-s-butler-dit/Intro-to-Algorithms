@@ -52,6 +52,9 @@ Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Book
 
 Hart, S. - Once Upon a Prime, Flatiron Books 2023
 
+Lindsay, G. Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain, MIT Press, 2021
+
+
 Playlist:
 
 Butler, J. S. Algorithms Playlist https://open.spotify.com/playlist/1Xpt5HUafj1vp6zIWwwM7V?si=f2c1e61c190044a9
