@@ -2,10 +2,11 @@
 ## [John S Butler (TU Dublin)](https://johnsbutler.netlify.com/)
 
 ## Introduction
-This module is a first year Mathematics course which introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of computer science and data analytics.  The module does not assume a prior knowledge of computer science.
+This module is a first year Mathematics course which introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of numerical analysis, machine learning, computer science and data analytics.  The module does not assume a prior knowledge of computer science.
 
 * This github repository contains the Python Code for the module.
-* The module lecture notes and tutorials can be found on the [website](https://sites.google.com/dit.ie/math1812/home)
+  
+* Some of the module lecture notes and tutorials can be found on the [website](https://sites.google.com/dit.ie/math1812/home)
 
 #### The module covers a range of topics:
 1.  Introduction to Algorithms
@@ -68,8 +69,6 @@ Podcasts: (name, website)
 2. Freakonomics Podcast, http://freakonomics.com/
    
 3. Colm O’Regan: The Function Room https://www.colmoregan.com/listen
-
-
 
 ### Playlist:
 
