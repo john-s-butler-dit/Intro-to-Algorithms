@@ -2,7 +2,7 @@
 ## [John S Butler (TU Dublin)](https://johnsbutler.netlify.com/)
 
 ## Introduction
-This module is a first year Mathematics course which introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of numerical analysis, machine learning, computer science and data analytics.  The module does not assume a prior knowledge of computer science.
+This is a first year Mathematics and Statistics module in TU Dublin which introduces the learner to basic algorithms and their implementation.  The theory and application of this subject is a cornerstone of numerical analysis, machine learning, computer science and data analytics.  The module does not assume a prior knowledge of computer science.
 
 * This github repository contains the Python Code for the module.
   
@@ -24,12 +24,15 @@ This module is a first year Mathematics course which introduces the learner to b
    - Merge Sort
    - Quick Sort
 4. Searching Algorithms
+   - Linear Search
+   - Binary Search
 5. Encryption
    - Caesar Cipher
-   - Vigenere Cipher
+   - Vigenère Cipher
 6. Random number generation 
    -  Middle Square Method
-   -  Linear Congruential  Method
+   -  Linear Congruential Method
+   -  Monte Carlo Method
 
 
 Video Lecture Playlist:
@@ -63,7 +66,7 @@ https://youtube.com/playlist?list=PLtys-ajYdIGXBTWCoABWXHd56LJb95ABo
 6. Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
 
 
-Podcasts: (name, website)
+### Podcasts: (name, website)
 1. Deep Mind: Podcast, https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
    
 2. Freakonomics Podcast, http://freakonomics.com/
