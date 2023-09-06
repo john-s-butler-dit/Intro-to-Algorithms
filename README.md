@@ -65,11 +65,10 @@ https://youtube.com/playlist?list=PLtys-ajYdIGXBTWCoABWXHd56LJb95ABo
 Podcasts: (name, website)
 1. Deep Mind: Podcast, https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
    
-3. Freakonomics Podcast, http://freakonomics.com/
+2. Freakonomics Podcast, http://freakonomics.com/
    
-4. Colm O’Regan: The Function Room https://www.colmoregan.com/listen
+3. Colm O’Regan: The Function Room https://www.colmoregan.com/listen
 
-![image](https://github.com/john-s-butler-dit/Intro-to-Algorithms/assets/30832003/741876c1-208c-4b2e-a8d5-5c1584155e03)
 
 
 ### Playlist:
