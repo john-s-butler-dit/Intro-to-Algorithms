@@ -15,6 +15,8 @@ This module is a first year Mathematics course which introduces the learner to b
 2. Networks
    -   Quick Union
    -   Quick Find
+   -   Perceptrons
+   -   Nerual Networks
 3. Sorting Algorithms
    - Bubble Sort
    - Selection Sort
@@ -32,33 +34,42 @@ This module is a first year Mathematics course which introduces the learner to b
 Video Lecture Playlist:
 https://youtube.com/playlist?list=PLtys-ajYdIGXBTWCoABWXHd56LJb95ABo
 
-![Algorithn_ConceptMap](https://user-images.githubusercontent.com/30832003/202928086-a4ef7c01-b4d3-4912-9ac7-7d9885564e1a.png)
+![image](https://github.com/john-s-butler-dit/Intro-to-Algorithms/assets/30832003/f7b5d205-cd00-4509-bd0f-771e04cd5e84)
 
 ## References
 ### Essential Reading:  (author, title, publisher, date)
-Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011.
+1. Sedgewick, Robert, and Kevin Wayne. Algorithms. Addison-Wesley Professional, 2011.
 
-Navathe E., Fundamentals of Database Systems, Addison Wesley, 3rd Edition, 2002
+2. Navathe E., Fundamentals of Database Systems, Addison Wesley, 3rd Edition, 2002
 
 ### Supplemental Reading:  (author, title, publisher, date)
-Deitel & Deitel, C – How to Program, Prentice Hall, 3rd Edition, 2001
+1. Deitel & Deitel, C – How to Program, Prentice Hall, 3rd Edition, 2001
 
-Knuth, D. – The Art of Computer Programming, 1994
+2. Knuth, D. – The Art of Computer Programming, 1994
 
 ### Popular Science: (author, title, publisher, date)
 
-Fry, H. - Hello World: How to be Human in the Age of the Machine, Doubleday, 2018
+1. Fry, H. - Hello World: How to be Human in the Age of the Machine, Doubleday, 2018
 
-Hart, S. - Once Upon a Prime, Flatiron Books, 2023
+2. Hart, S. - Once Upon a Prime, Flatiron Books, 2023
 
-Johnson, K. - Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson, Simon & Schuster, 2019
+3. Johnson, K. - Reaching for the Moon: The Autobiography of NASA Mathematician Katherine Johnson, Simon & Schuster, 2019
 
-Kleiman, K. - Proving Ground The Untold Story of the Six Women Who Programmed the World's First Modern Computer, Grand Central Publishing, 2022
+4. Kleiman, K. - Proving Ground The Untold Story of the Six Women Who Programmed the World's First Modern Computer, Grand Central Publishing, 2022
 
-Lindsay, G. - Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain, MIT Press, 2021
+5. Lindsay, G. - Models of the Mind: How Physics, Engineering, and Mathematics Have Shaped Our Understanding of the Brain, MIT Press, 2021
 
-Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
+6. Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
 
+
+Podcasts: (name, website)
+1. Deep Mind: Podcast, https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
+   
+3. Freakonomics Podcast, http://freakonomics.com/
+   
+4. Colm O’Regan: The Function Room https://www.colmoregan.com/listen
+
+![image](https://github.com/john-s-butler-dit/Intro-to-Algorithms/assets/30832003/741876c1-208c-4b2e-a8d5-5c1584155e03)
 
 
 ### Playlist:
