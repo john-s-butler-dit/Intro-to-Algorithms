@@ -65,6 +65,7 @@ https://youtube.com/playlist?list=PLtys-ajYdIGXBTWCoABWXHd56LJb95ABo
 
 6. Mitchell M, - Artificial Intelligence: A Guide for Thinking Humans, Pelican Books, 2019
 
+7. Zurn, P., & Bassett, D. S. - Curious minds: The power of connection. MIT Press. 2022
 
 ### Podcasts: (name, website)
 1. Deep Mind: Podcast, https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast
